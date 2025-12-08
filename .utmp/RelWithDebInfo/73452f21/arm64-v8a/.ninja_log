@@ -1,0 +1,19 @@
+# ninja log v5
+8288	8707	1763525692000000000	/Volumes/T7/Unity_Projects/XR Final Cooking Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/73452f21/obj/arm64-v8a/libgame.so	694a8f3b0e39f862
+0	8288	1763525692000000000	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	968a52c7a32d1357
+3	8021	1763525691000000000	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	361fed1dccd58a8a
+7	7692	1763525691000000000	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d3a27553dc6041cb
+1	7299	1763525691000000000	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6cfabb752b0dfd93
+5	7166	1763525691000000000	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	62f18c72b40e41be
+4	7046	1763525690000000000	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cf982ddcc797513c
+1	7240	1763525691000000000	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f625e408aaa8cecc
+2	6626	1763525690000000000	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	58bcbc700397cfbc
+9	4007	1765169346000000000	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cf982ddcc797513c
+7	4015	1765169346000000000	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	58bcbc700397cfbc
+6	4064	1765169346000000000	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f625e408aaa8cecc
+10	4109	1765169346000000000	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	62f18c72b40e41be
+11	4211	1765169346000000000	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d3a27553dc6041cb
+6	4259	1765169346000000000	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6cfabb752b0dfd93
+8	4710	1765169347000000000	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	361fed1dccd58a8a
+5	4867	1765169347000000000	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	968a52c7a32d1357
+4867	5222	1765169347000000000	/Volumes/T7/Unity_Projects/XR Final Cooking Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/73452f21/obj/arm64-v8a/libgame.so	694a8f3b0e39f862

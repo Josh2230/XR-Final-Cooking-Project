@@ -1,0 +1,5 @@
+/Volumes/T7/Unity_Projects/XR Final Cooking Project/.utmp/RelWithDebInfo/73452f21/arm64-v8a/CMakeFiles/edit_cache.dir
+/Volumes/T7/Unity_Projects/XR Final Cooking Project/.utmp/RelWithDebInfo/73452f21/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Volumes/T7/Unity_Projects/XR Final Cooking Project/.utmp/RelWithDebInfo/73452f21/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Volumes/T7/Unity_Projects/XR Final Cooking Project/.utmp/RelWithDebInfo/73452f21/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Volumes/T7/Unity_Projects/XR Final Cooking Project/.utmp/RelWithDebInfo/73452f21/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/Volumes/T7/Unity_Projects/XR Final Cooking Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Volumes/T7/Unity_Projects/XR Final Cooking Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
