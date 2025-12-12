@@ -163,7 +163,7 @@ UI improvements for recipe navigation
 
 (Add your actual project video link here)
 
-Project Demo Video: https://your-video-url-here.com
+Project Demo Video: https://horizon.meta.com/shares/xjBaR1eO44Hi8hMh4DTQLMIdUHv6gt 
 
 👤 Author
 
