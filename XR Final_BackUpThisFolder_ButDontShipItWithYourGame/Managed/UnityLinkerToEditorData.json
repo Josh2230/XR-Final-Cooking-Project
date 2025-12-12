@@ -90,7 +90,9 @@
           },
           {
             "name": "AudioClip",
-            "scenes": [],
+            "scenes": [
+              "Assets/KitchenFurnitureStarterPack-Mavi3D/DemoScene.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -110,13 +112,17 @@
           },
           {
             "name": "AudioResource",
-            "scenes": [],
-            "dependencyType": 1,
+            "scenes": [
+              "Assets/KitchenFurnitureStarterPack-Mavi3D/DemoScene.unity"
+            ],
+            "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AudioSource",
-            "scenes": [],
+            "scenes": [
+              "Assets/KitchenFurnitureStarterPack-Mavi3D/DemoScene.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
