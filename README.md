@@ -49,7 +49,7 @@ Angle detection ensures particles only emit when appropriate
 
 Custom radius/angle settings to prevent offset or double beams
 
-🚪 Fully Interactive Cabinets
+Fully Interactive Cabinets
 
 Controller-grabbed door that you can pull
 
